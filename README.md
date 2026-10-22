@@ -1,7 +1,7 @@
 
 # Hey, I'm Laxmikant👋
 
-**Student | UI/UX Designer | Digital Creator | Builder**
+**Student | UI/UX, Graphics, Web, App, Architect and Concept Designer**
 I enjoy turning ideas into clean digital experiences, from interfaces and graphics to web projects and innovative product concepts.
 
 - 🎓 Student from Odisha, India, exploring technology and entrepreneurship.
