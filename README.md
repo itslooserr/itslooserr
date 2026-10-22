@@ -28,7 +28,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 
-### 🌟 Featured Projects : 🚀 UDYAP, ⛏️ MineFleet AI 
+### 🌟 Featured Projects: 🚀 UDYAP, ⛏️ MineFleet AI 
 
 <table>
 <tr>
