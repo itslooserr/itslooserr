@@ -2,7 +2,7 @@
 # Hey, I'm Laxmikant👋
 
 **Student | UI/UX, Graphics, Web, App, Architect and Concept Designer**
-I enjoy turning ideas into clean digital experiences, from interfaces and graphics to web projects and innovative product concepts.
+,Enjoying turning ideas into clean digital experiences, from interfaces and graphics to web projects and innovative concepts.
 
 - 🎓 Student from Odisha, India, exploring technology and entrepreneurship.
 - 🎨 Interested in UI/UX, graphic design, visual storytelling, editing, and animation.
