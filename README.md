@@ -25,25 +25,20 @@ I enjoy turning ideas into clean digital experiences, from interfaces and graphi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects : 🚀 UDYAP, ⛏️ MineFleet AI 
 
-### 🚀 UDYAP
-A youth-focused digital platform concept connecting students with learning, guidance, and opportunities.
-
-### ⛏️ MineFleet AI
-A concept prototype exploring mining fleet management and route optimisation.
-
-
-
-## GitHub Stats
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itslooserr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itslooserr&layout=compact&hide_border=true&theme=github_dark)
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=itslooserr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslooserr&layout=compact&hide_border=true&theme=github_dark" />
+</td>
+</tr>
+</table>
 
 
 
 **Keep learning. Keep building. Keep moving forward.**
-Made with curiosity in India
+
