@@ -1,16 +1,8 @@
 
-# Hey, I'm Laxmikant Nayak 👋
+# Hey, I'm Laxmikant👋
 
 **Student | UI/UX Designer | Digital Creator | Builder**
-
 I enjoy turning ideas into clean digital experiences, from interfaces and graphics to web projects and innovative product concepts.
-https://auranthic.ai.studio
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmikant-nayak-6497a9430/)
-
----
-
-## 🚀 About Me
 
 - 🎓 Student from Odisha, India, exploring technology and entrepreneurship.
 - 🎨 Interested in UI/UX, graphic design, visual storytelling, editing, and animation.
@@ -18,7 +10,11 @@ https://auranthic.ai.studio
 - 🧠 Exploring AI, cybersecurity, product design, and useful technology.
 - 🌱 Always learning, experimenting, and building new things.
 
-## 🛠️ Skills & Tools
+
+[![Company](https://img.shields.io/badge/Company-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auranthic.ai.studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmikant-nayak-6497a9430/)
+
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
