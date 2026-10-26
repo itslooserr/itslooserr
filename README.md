@@ -7,7 +7,7 @@
 - 🎓 Student from Odisha, India, exploring technology and entrepreneurship.
 - 🎨 Interested in UI/UX, graphic design, visual storytelling, editing, and animation.
 - 💻 I enjoy designing websites, interfaces, and digital products.
-- 🧠 Exploring AI, cybersecurity, product design, and useful technology.
+- 🧠 Exploring AI, product design, and useful technology.
 - 🌱 Always learning, experimenting, and building new things.
 
 
